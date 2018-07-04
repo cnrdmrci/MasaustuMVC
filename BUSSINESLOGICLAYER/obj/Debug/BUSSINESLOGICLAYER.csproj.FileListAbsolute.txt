@@ -1,0 +1,45 @@
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.csprojResolveAssemblyReference.cache
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.csprojResolveAssemblyReference.cache
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.csprojResolveAssemblyReference.cache
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.csprojResolveAssemblyReference.cache
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.csprojResolveAssemblyReference.cache
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\obj\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\BUSSINESLOGICLAYER\bin\Debug\FACADELAYER.pdb

@@ -1,0 +1,9 @@
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe.config
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.pdb
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.csprojResolveAssemblyReference.cache
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.Form1.resources
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.Properties.Resources.resources
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.csproj.GenerateResource.Cache
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.exe
+c:\users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.pdb

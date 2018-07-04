@@ -1,0 +1,75 @@
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csprojResolveAssemblyReference.cache
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Form1.resources
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Properties.Resources.resources
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csproj.GenerateResource.Cache
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.exe
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe.config
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.dll
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.pdb
+C:\Users\frampi\documents\visual studio 2013\Projects\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe.config
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.exe
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\obj\Debug\ALVER.com.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\ALVER.com.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.dll
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.pdb
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csprojResolveAssemblyReference.cache
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Form1.resources
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Properties.Resources.resources
+C:\Users\mikrolab_0\Documents\Visual Studio 2015\Projects\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csproj.GenerateResource.Cache
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe.config
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\obj\Debug\ALVER.com.exe
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\obj\Debug\ALVER.com.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\ALVER.com.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csprojResolveAssemblyReference.cache
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Form1.resources
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Properties.Resources.resources
+C:\Users\mikrolab_0\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csproj.GenerateResource.Cache
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe.config
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\obj\Debug\ALVER.com.exe
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\obj\Debug\ALVER.com.pdb
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\ALVER.com.exe
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\ALVER.com.pdb
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.dll
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\ENTITYLAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\bin\Debug\FACADELAYER.pdb
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csprojResolveAssemblyReference.cache
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Form1.resources
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.Properties.Resources.resources
+C:\Users\frampi\Desktop\ALVER.com\ALVER.com\obj\Debug\BUMBSS.com.csproj.GenerateResource.Cache
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\ALVER.com.exe.config
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\obj\Debug\ALVER.com.exe
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\obj\Debug\ALVER.com.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\obj\Debug\BUMBSS.com.csprojResolveAssemblyReference.cache
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\obj\Debug\BUMBSS.com.Form1.resources
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\obj\Debug\BUMBSS.com.Properties.Resources.resources
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\obj\Debug\BUMBSS.com.csproj.GenerateResource.Cache
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\ALVER.com.exe
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\ALVER.com.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\ENTITYLAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\FACADELAYER.dll
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\BUSSINESLOGICLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\ENTITYLAYER.pdb
+C:\Users\mikrolab_0\Desktop\ALVER.com1\ALVER.com\bin\Debug\FACADELAYER.pdb
